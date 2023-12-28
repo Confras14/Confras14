@@ -1,6 +1,6 @@
 # Olá! Eu sou Lucas Conrado 🖐️
 
-Apaixonado por tecnologia desde a infância, buscando desde novo conhecimento na área, formado no curso técnico de TI integrado ao ensino médio e ingressando na faculdade de Ciências da Computação.
+Apaixonado por tecnologia desde a infância, buscando desde novo conhecimento na área, formado no curso técnico de TI integrado ao ensino médio e ingressando na faculdade de Ciências da Computação, atualmente sigo buscando oportunidades na área.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-conrado-b89208224/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://pt.stackoverflow.com/users/329237/conrado)

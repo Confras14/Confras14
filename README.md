@@ -14,10 +14,8 @@ Essas são as tecnologias que domino e estudo constantemente para ampliar meu co
   <img align='center' alt='CSS3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
   <img align='center' alt='Javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
   <img align='center' alt='Figma' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
-  <img align='center' alt='C++' src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
   <img align='center' alt='Arduino' src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'>
   <img align='center' alt='Canva' src='https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white'>
-  <img align='center' alt='Notion' src='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'>
   <img align='center' alt='Trello' src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white'>
 </div><br>
 

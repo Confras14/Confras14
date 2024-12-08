@@ -1,12 +1,12 @@
 # Olá! Eu sou Lucas Conrado 🖐️
 
-Apaixonado por tecnologia desde a infância, buscando desde novo conhecimento na área, formado no curso técnico de TI integrado ao ensino médio e ingressando na faculdade de Ciências da Computação, atualmente sigo buscando oportunidades na área.
+Apaixonado por tecnologia, sou formado em Técnico em Informática integrado ao Ensino médio e atualmente curso Análise e Desenvolvimento de Sistemas no Mackenzie. Busco aplicar e expandir meus conhecimentos enquanto exploro novas oportunidades na área de TI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
 
 # 💻 Tecnologias
-Essas são as tecnologias que possuo um conhecimento e procuro saber mais a cada dia.
+Essas são as tecnologias que domino e estudo constantemente para ampliar meu conhecimento:
 
 <div style='display: flex; flex-wrap: wrap; gap: 16px;'>
   <img style="margin-bottom: 4px;" align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>

@@ -1,6 +1,6 @@
 # Olá! Eu sou Lucas Conrado 🖐️
 
-Apaixonado por tecnologia, sou formado em Técnico em Informática integrado ao Ensino médio e atualmente curso Análise e Desenvolvimento de Sistemas no Mackenzie. Busco aplicar e expandir meus conhecimentos enquanto exploro novas oportunidades na área de TI.
+Apaixonado por tecnologia, sou formado em Técnico em Informática integrado ao Ensino médio e atualmente curso Análise e Desenvolvimento de Sistemas no Mackenzie. Busco aplicar e expandir meus conhecimentos em JavaScript e React enquanto exploro novas oportunidades na área de TI. No meu tempo livre vejo sobre Figma e UI ou sobre Linux 🐧.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)
@@ -16,11 +16,7 @@ Essas são as tecnologias que domino e estudo constantemente para ampliar meu co
   <img align='center' alt='Figma' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
   <img align='center' alt='Arduino' src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'>
   <img align='center' alt='Canva' src='https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white'>
-  <img align='center' alt='Trello' src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white'>
 </div><br>
-
-<h1>Status do Github <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
-</svg></h1>
 
 ![Confras14 GitHub stats](https://github-readme-stats.vercel.app/api?username=Confras14&bg_color=0d1117&title_color=fefefe&text_color=bbb&hide_border=false&border_color=222&show_icons=true&icon_color=00a86b)
 
